@@ -11,7 +11,7 @@ BBBHook is a automated mechanism programm, that communicates with Big Blue Butto
 - Dynamic Search / Deep dive in the recorded data using search filters (From Date, To Date, Fullname etc)
 - Export the data in PDF Files
 
-## Project Notes
+## Disclaimer / Project Notes
 - The data are randomly generated for the <ins>**demo/introduction purposes only!**</ins> They have absolute <ins>**no connection with real-life data**</ins> (user personal infromation, time data etc). If some names exists in real-life, again have <ins>**no connection**</ins> at all with this project/platform/dataset.
 - This repository for this project have <ins>**no available source code**</ins> because is <ins>**available only for a specific company usage and not for the public.</ins>** I will describe the technology stack and how it works below.
 
